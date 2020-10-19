@@ -1,0 +1,120 @@
+.head{
+    text-align: right;   
+    padding-right: 10px;
+    background-image: url("cabeceraPrueba3.jpg");
+    margin-bottom: -5px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    height: 80px;
+}
+
+.titulo{
+    
+    margin-top: -130px;
+    text-align: center;
+    color: whitesmoke;
+    -webkit-text-stroke: 3px black;
+    font-size: 80px;
+    
+       
+}
+
+.subtitulo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    word-spacing: 40px;
+    background-image: url("cabeceraPrueba3.jpg");
+    font-size: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+}
+
+.cuerpo{
+    background-image: url("fondozapatos.jpg");
+    margin-top: -20px;
+    margin-bottom: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    height: 300px;
+
+}
+
+.titulopag{
+    text-align: center;
+    font: 120% arial; 
+}
+
+body{
+    background-image: url("fondohueso.jpg");
+}
+
+.gif{
+    float: left;
+    margin-right: 10px;
+}
+
+.gif2{
+    float: right;
+    margin-left: 10px;
+}
+
+#footer{
+    background-image: url("cabeceraPrueba3.jpg");
+    margin-top: 500px;
+    width: 100%;
+    color: white;
+    word-spacing: 5px;
+    text-align: center;
+}
+
+.descripcion{
+    text-align: left; 
+    margin-bottom: 200px;
+    font: 100% arial; 
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.fotos{
+    text-align: left;
+    margin-left: 190px;
+    width: 200px;
+    height: 200px;
+    border-style:solid;
+    border-color: burlywood;
+}
+
+.parrafoInicio{
+    font: 100% arial; 
+    line-height: 50px;
+    font-weight: 600;
+    text-align: justify;
+}
+
+.mapa{
+    height: 300px;
+    width: 400px;
+    float: left;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+.fotoTOP{
+    height: 15px;
+    width: 15px;
+}
+
+.mapapie{
+    height: 300px;
+    width: 400px;
+    float: left;
+    margin-left: 715px;
+    margin-top: 150px;
+}
+
+a.link:hover{ font-size: 150%;}
+a.link{color: black;}
+li {display: inline;}
+
